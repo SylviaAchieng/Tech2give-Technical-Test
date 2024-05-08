@@ -1,1 +1,1 @@
-tech2give_technical_test
+teach2give_technical_test
